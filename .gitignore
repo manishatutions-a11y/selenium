@@ -1,0 +1,22 @@
+# macOS system file
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+
+# PyCharm settings
+.idea/
+*.iml
+
+# Logs
+*.log
+file.log
+
+# Test reports
+reports/
